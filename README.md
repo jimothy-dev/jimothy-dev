@@ -8,7 +8,7 @@ US Army veteran. Looking for entry-level data science or research software roles
 | Project | What it is |
 |---|---|
 | [CTD_Grapher_v2](https://github.com/jimothy-dev/CTD_Grapher_v2) | Colab notebook that parses any Sea-Bird `.cnv` cast from its own header and draws interactive multi-station depth profiles (Plotly HTML + PNG). [Live example](https://jimothy-dev.github.io/CTD_Grapher_v2/examples/Temperature.html). |
-| [drone-intertidal-species-id](https://github.com/jimothy-dev/drone-intertidal-species-id) | SAM 3 + BioCLIP 2 pipeline that finds and identifies intertidal organisms in consumer-drone photos, with geometry / confidence / agreement gates. Built at OceanHackWeek 2026, Bamfield. |
+| [drone-intertidal-species-id](https://github.com/jimothy-dev/drone-intertidal-species-id) | SAM 3 + BioCLIP 2 pipeline that finds and identifies intertidal organisms in consumer-drone photos, with geometry / confidence / agreement gates. Built at [OceanHackWeek 2026](https://oceanhackweek.org/), Bamfield Marine Sciences Centre. |
 | [HerringIdentificationProject](https://github.com/jimothy-dev/HerringIdentificationProject) | Herring Spawn Labeler: FastAPI web app that pulls Sentinel-2 and Landsat scenes from Google Earth Engine around DFO spawn records, labels them, exports GeoTIFF training chips, and adds SAM 3 point-prompt segmentation with a spectral spawn score. |
 | [centennial-park-point-cloud](https://github.com/jimothy-dev/centennial-park-point-cloud) | Three.js viewer for a georeferenced textured mesh of a boat launch and moorage from a DJI Mini SE survey, compressed 102 MB to 11 MB for the web. [View](https://jimothy-dev.github.io/centennial-park-point-cloud/). |
 | [BioinformaticsStudy](https://github.com/jimothy-dev/BioinformaticsStudy) | R / DESeq2 analysis of MorPhiC RNA-seq (GEO GSE288289) testing whether knockout method changes the differentially expressed genes for four transcription factors; volcano and UpSet plots. |
@@ -28,5 +28,3 @@ US Army veteran. Looking for entry-level data science or research software roles
 
 - Email: james.simpson012@gmail.com
 - GitHub: https://github.com/jimothy-dev
-
-[![OceanHackWeek 2026](https://img.shields.io/badge/OceanHackWeek-2026-2b6cb0)](https://oceanhackweek.org/)
